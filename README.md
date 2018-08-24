@@ -1,1 +1,1 @@
-# Hello_World_C-
+The code to accompany the tutorial, "How to Create, Compile, and Run C & C++ Programs on Ubuntu 18.04 LTS." Find the tutorial here: https://virtualzero.net/blog/how-to-create-compile-and-run-c-and-c++-programs-on-ubuntu-18.04-lts
